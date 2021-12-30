@@ -1,0 +1,13 @@
+numero_1 = int(input("ingresa el primer numero: "))
+numero_2 = int(input("ingresa el segundo numero: "))
+
+print(numero_1 + numero_2)
+print("suma: " + str(numero_1 + numero_2))
+print(numero_1 - numero_2)
+print("resta: " + str(numero_1 - numero_2))
+print(numero_1 * numero_2)
+print("multiplicacion: " + str(numero_1 * numero_2))
+print(numero_1 / numero_2)
+print("division: " + str(numero_1  / numero_2))
+print(numero_1 % numero_2)
+print("modulo: " + str(numero_1 % numero_2))
